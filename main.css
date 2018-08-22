@@ -1,0 +1,139 @@
+#app {
+  position: relative;
+  top: 30px;
+}
+.menu-item {
+ user-select: none; 
+}
+#left-container {
+  float: left;
+}
+#count-table {
+  width: 65%;
+  margin: 0 auto;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+  margin: 0px;
+  height: 25px;
+  width: 100%;
+  box-sizing: border-box;
+}
+td {
+  text-align: center;
+  padding: 0px;
+  height: 60px;
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  user-select: none;
+}
+tr {
+  padding: 0px;
+  margin: 0px;
+}
+table {
+  border: solid;
+  border-width: 1px;
+  border-collapse: collapse;
+}
+.sum {
+  width: 12%;
+  box-sizing: border-box;
+}
+input {
+  text-align: center;
+  border: none;
+  font-size: 1em;
+  width: 100%;
+  outline: none;
+}
+.Red {
+  color: red !important;
+}
+.tag {
+  height: 30px;
+}
+.t1 {
+  color: rgb(165, 164, 163);
+}
+.t2 {
+  background-color: rgb(140, 212, 87);
+  color: rgb(50, 96, 6);
+}
+.t3 {
+  background-color: rgb(1, 173, 50);
+  color: rgb(1, 85, 5);
+  
+}
+.t4 {
+  background-color: rgb(73, 197, 113);
+  color: white;
+}
+.t5 {
+  background-color: rgb(20, 123, 158);
+  color: white;
+}
+.t6, .t7, .t8 {
+  background-color: rgb(81, 177, 225);
+  color: white;
+}
+.odd1 {
+  color: rgb(165, 164, 163);
+  background-color: rgb(236, 236, 236);
+}
+.even1 {
+  color: rgb(165, 164, 163);
+}
+.odd2 {
+  color: rgb(50, 96, 6);
+  background-color: rgb(226, 240, 215);
+}
+.even2 {
+  color: rgb(50, 96, 6);
+  background-color: rgb(211, 227, 190);
+}
+.odd3 {
+  background-color: rgb(205, 235, 209);
+  color: rgb(76, 91, 60);
+}
+.even3 {
+  color: rgb(76, 91, 60);
+  background-color: rgb(184, 225, 185);
+}
+.odd4 {
+  background-color: rgb(201, 234, 223);
+  color: rgb(107, 104, 60);
+}
+.even4 {
+  background-color: rgb(174, 218, 203);
+  color: rgb(107, 104, 60);
+}
+.odd5 {
+  background-color: rgb(205, 230, 237);
+  color: rgb(76, 91, 60);
+}
+.even5 {
+  background-color: rgb(184, 214, 225);
+  color: rgb(76, 91, 60);
+}
+.odd6 {
+  background-color: rgb(218, 238, 251);
+  color: rgb(82, 107, 140);
+}
+.even6 {
+  background-color: rgb(181, 227, 247);
+  color: rgb(82, 107, 140);
+}
+.odd6 input {
+  background-color: rgb(218, 238, 251);
+  color: rgb(82, 107, 140);
+}
+.even6 input {
+  background-color: rgb(181, 227, 247);
+  color: rgb(82, 107, 140);
+}
